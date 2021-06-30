@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content>
+    <path>
+        <excel>F:\IDEA\JHydro\xmlFortest\HBV\HBVmodel.xls</excel>
+        <sheet1>Sheet1</sheet1>
+        <sheet2>Sheet2</sheet2>
+        <snow0>0</snow0>
+        <soil0>100</soil0>
+        <S10>3</S10>
+        <S20>10</S20>
+        <area>410</area>
+    </path>
+</content>

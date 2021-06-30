@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SACmodel>
+    <para>
+        <AUZTWM>20</AUZTWM>
+        <ALZTWM>90</ALZTWM>
+        <UZTWM>20</UZTWM>
+        <UZFWM>30</UZFWM>
+        <LZTWM>90</LZTWM>
+        <LZFSM>20</LZFSM>
+        <LZFPM>100</LZFPM>
+        <AUZTWC0>20</AUZTWC0>
+        <ALZTWC0>90</ALZTWC0>
+        <UZTWC0>20</UZTWC0>
+        <UZFWC0>20</UZFWC0>
+        <LZTWC0>90</LZTWC0>
+        <LZFSC0>10</LZFSC0>
+        <LZFPC0>80</LZFPC0>
+
+        <RIVA>0.01</RIVA>
+        <UZK>0.4</UZK>
+        <PCTIM>0.01</PCTIM>
+        <RESERV>0.3</RESERV>
+        <LZSK>0.2</LZSK>
+        <LZPK>0.02</LZPK>
+        <ZPERC>15</ZPERC>
+        <PFREE>0.3</PFREE>
+        <f>100</f>
+        <ADIMP>0.01</ADIMP>
+
+        <CI>0.5</CI>
+        <CGS>0.8</CGS>
+        <CGP>0.95</CGP>
+        <CR>0.4</CR>
+        <PAREA>0.98</PAREA>
+    </para>
+
+    <data>
+        <excel>F:\IDEA\JHydro\excelFortest\SACdata.xls</excel>
+    </data>
+</SACmodel>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TankModel>
+    <para>
+        <d_factors>
+            <d_factor>0.2</d_factor>
+            <d_factor>0.1</d_factor>
+            <d_factor>0.05</d_factor>
+            <d_factor>0</d_factor> // 最后一层下渗直接为0
+        </d_factors>
+        <r_factors>
+            <r_factor>0.2</r_factor>
+            <r_factor>0.1</r_factor>
+            <r_factor>0.05</r_factor>
+            <r_factor>0.03</r_factor>
+            <r_factor>0.01</r_factor>
+        </r_factors>
+        <tankHs>
+            <tankH>40</tankH>
+            <tankH>25</tankH>
+            <tankH>10</tankH>
+            <tankH>15</tankH>
+            <tankH>15</tankH>
+        </tankHs>
+        <h0s>
+            <h0>0</h0>
+            <h0>0</h0>
+            <h0>0</h0>
+            <h0>0</h0>
+        </h0s>
+    </para>
+    <data>
+        <excel>F:\IDEA\JHydro\excelFortest\TankModedata.xls</excel>
+    </data>
+</TankModel>
